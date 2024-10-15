@@ -29,7 +29,7 @@ To get started with this project, clone the repository to your local machine and
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/anshulc55/ansible_automation.git
+   git clone https://github.com/lmunje/ansible_automation.git
    cd ansible_automation
    ```
 
@@ -98,7 +98,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or inquiries, please contact Anshul Chauhan at anshulc55@gmail.com.
+For any questions or inquiries, please contact Lionel Munje at Lmunje41@gmail.com.
 
 ---
 
